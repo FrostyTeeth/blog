@@ -2,7 +2,7 @@
 
 [![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-2-blue)](#posts)
 
-Software engineer and product builder writing about AI-assisted engineering, multi-agent systems, and design. Also edits/builds for *Edify* Magazine and Odvod Media.
+Agentic developer with a Bachelor of Commerce and a marketing background. I build products by orchestrating AI agents, and write about multi-agent systems, AI-assisted engineering, and design. Also edits/builds for *Edify* Magazine and Odvod Media.
 
 Full posts, images, and the rest of my work live at [steve-glen.com](https://steve-glen.com).
 
