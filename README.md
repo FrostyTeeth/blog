@@ -6,7 +6,7 @@ Agentic developer with a Bachelor of Commerce and a marketing background. I buil
 
 Full posts, images, and the rest of my work live at [steve-glen.com](https://steve-glen.com).
 
-**Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`
+**Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`, `AI-assisted engineering`, `UX`, `marketing analytics`, `product development`, `product-market fit`
 
 ## Posts
 
