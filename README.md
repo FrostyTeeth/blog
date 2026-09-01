@@ -19,7 +19,3 @@ The industry is building multi-agent systems that push toward consensus. For mat
 *2026-08-11 — UX, design, opinion, analog, skeuomorphism, emotional-design*
 
 I opened ten SaaS dashboards last week and honestly could not tell you which was which.
-
----
-
-This is a generated mirror — edit posts at the source ([steve-glen.com/blog](https://steve-glen.com/blog)), not here.
