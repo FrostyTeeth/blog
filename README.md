@@ -4,7 +4,7 @@
 
 Software engineer and product builder writing about AI-assisted engineering, multi-agent systems, and design. Also edits/builds for *Edify* Magazine and Odvod Media.
 
-Full posts, images, and the rest of my work live at [steve-glen.com](https://steve-glen.com). This repo is a plain-Markdown mirror so posts are readable and linkable straight from GitHub.
+Full posts, images, and the rest of my work live at [steve-glen.com](https://steve-glen.com).
 
 **Topics:** `AI`, `analog`, `code-review`, `design`, `emotional-design`, `engineering`, `multi-agent`, `opinion`, `skeuomorphism`, `UX`
 
