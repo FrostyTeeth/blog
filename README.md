@@ -16,7 +16,7 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 
 ## Posts
 
-### [The gesture on the way out the door](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
+### [The slight touch](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
 *2026-09-11 — craft, marketing, experience, career*
 
 ### [Venturing past what the model can do on its own](posts/2026-09-03-venturing-past-what-the-model-can-do-on-its-own.md)
