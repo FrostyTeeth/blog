@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-2-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-5-blue)](#posts)
 
 ## What's in here
 
@@ -16,12 +16,23 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 
 ## Posts
 
-### [When AI Agents Disagree, That's the Answer](posts/2026-08-23-when-ai-agents-disagree-thats-the-answer.md)
+### [The gesture on the way out the door](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
+*2026-09-11 — craft, marketing, experience, career*
+
+### [Venturing past what the model can do on its own](posts/2026-09-03-venturing-past-what-the-model-can-do-on-its-own.md)
+*2026-09-03 — AI, engineering, agents, claude-code, deepseek, opinion*
+
+### [LLM Pipeline Architecture: The Airlock Pattern](posts/2026-08-30-the-approval-wall.md)
+*2026-08-30 — AI, engineering, architecture, automation, opinion*
+
+Every pipeline where an LLM's analysis drives outbound content needs a hard wall between analysis and action. Here's the design pattern, built from real failures.
+
+### [Disagreement Is Signal: What Multi-Agent Splits Actually Tell You](posts/2026-08-23-disagreement-is-signal.md)
 *2026-08-23 — AI, engineering, multi-agent, code-review, opinion*
 
 The industry is building multi-agent systems that push toward consensus. For math, that works. For judgment calls — code review, design critique, risk — the disagreement is the valuable part, and most architectures throw it away.
 
-### [Everything looks the same](posts/2026-08-11-analog-inspired-design.md)
+### [Designed to Be Forgotten](posts/2026-08-11-analog-inspired-design.md)
 *2026-08-11 — UX, design, opinion, analog, skeuomorphism, emotional-design*
 
 I opened ten SaaS dashboards last week and honestly could not tell you which was which.
