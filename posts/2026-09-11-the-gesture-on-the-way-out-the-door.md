@@ -1,4 +1,4 @@
-# The gesture on the way out the door
+# The slight touch
 
 *2026-09-11 — craft, marketing, experience, career*
 
