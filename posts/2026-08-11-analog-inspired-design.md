@@ -1,4 +1,4 @@
-# Everything looks the same
+# Designed to Be Forgotten
 
 *2026-08-11 — UX, design, opinion, analog, skeuomorphism, emotional-design*
 
