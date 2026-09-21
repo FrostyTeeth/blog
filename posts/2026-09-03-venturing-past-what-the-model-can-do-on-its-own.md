@@ -1,4 +1,4 @@
-# Venturing past what the model can do on its own
+# Venturing Past What the Model Can Do on Its Own
 
 *2026-09-03 — AI, engineering, agents, claude-code, deepseek, opinion*
 
@@ -6,23 +6,23 @@ I've spent most of my development over the last year, time and tokens and energy
 
 There's an active argument about this in the industry, and it has split into two camps that couldn't disagree more.
 
-## Camp one: it all dissolves
+## Camp One: It All Dissolves
 
 Rich Sutton's ["Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) is the founding text here, and it says one thing: general methods that scale with computation beat hand-built structure, every time, eventually. People building agent tooling have started applying this to their own work, and the conclusions are not gentle. Hugo Bowne-Anderson [put a number on it](https://hugobowne.substack.com/p/ai-agent-harness-3-principles-for): "the architectural assumptions baked into an application today will likely be obsolete in six months when a new, more capable model is released." Han Lee [went further](https://leehanchung.github.io/blogs/2026/05/08/hidden-technical-debt-agent-harness/), arguing that agent scaffolding is hidden technical debt because "almost all of it is going to dissolve into the next generation of models." His prescription: treat anything you build on top of a model as a "90-day artifact," because "teams who treat their harness as a permanent product surface are going to spend a year ripping it out."
 
 This is the position that should make anyone building what I'm building nervous. And it has receipts. Lee lists specific things already dissolving: tool wrappers that made APIs "LLM-friendly," planner-executor scaffolds that collapse into single reasoning passes, memory abstractions with embeddings beaten out by plain text progress files. The trend line is real.
 
-## Camp two: it never disappears, it moves
+## Camp Two: It Never Disappears, It Moves
 
 Addy Osmani's [rebuttal](https://addyosmani.com/blog/agent-harness-engineering/) is just as direct: "as models improve, the space of interesting harness combinations doesn't shrink. It moves." His example: the context-anxiety scaffolding goes away as models improve, and in its place you need a multi-day memory policy, or a system that coordinates three specialized agents, or evaluators for design quality in generated UIs. Old scaffolding dies, new scaffolding replaces it, and the total amount of structure around the model doesn't trend toward zero. He points out that the leading coding agents ["look more like each other than their underlying models do,"](https://addyosmani.com/blog/agent-harness-engineering/) which suggests the scaffolding layer is converging into a real discipline, not evaporating.
 
 This is the position that should make anyone building what I'm building feel justified. And for now, every better model helps me build a better harness. The thing that's supposed to make my scaffolding unnecessary is also the best tool I have for building the next version of it.
 
-## Which is what makes DeepSeek interesting
+## Which Is What Makes DeepSeek Interesting
 
 DeepSeek recently opened up custom harness development, and the opportunity isn't to rebuild what I already have. It's to learn what actually makes a harness effective by building very niche ones — harnesses scoped to a specific job, stripped down to do that job clean, efficient, and fast. And building on a different model means I get to find out which parts of my Claude plugin were actually good ideas and which ones were just habits I never looked at twice. I wouldn't get that staying in one ecosystem.
 
-## Both camps are right, which doesn't help
+## Both Camps Are Right, Which Doesn't Help
 
 I think the dissolvers are right about the direction and the movers are right about the present. The scaffolding I'm building today will dissolve. And the scaffolding I build to replace it will also dissolve. And somewhere in between there's always going to be a version of me, or someone like me, building the next temporary thing to bridge the gap between what the model can do on its own and what the work actually requires.
 
