@@ -6,7 +6,7 @@ I opened ten SaaS dashboards last week and honestly could not tell you which was
 
 Analog-inspired design is the corrective, and I don't expect it to fade in 2026-2027.
 
-## What analog-inspired design actually is
+## What Analog-Inspired Design Actually Is
 
 Analog-inspired design borrows the visual language of pre-digital media: film grain, textured paper, mechanical dials, hand-set type. It brings them into digital interfaces not as decoration but as a signal: *a human made this, and it was made with intention*. **(Although often badly-faked!!)**
 
@@ -14,7 +14,7 @@ Sara Mote, creative director at Barkas, captures it well: ["There's that warm no
 
 The craft is selective. Weight, texture, and mechanical feedback go where they make a digital interaction legible and emotionally grounded, and nowhere else.
 
-## Why it works
+## Why It Works
 
 When flat design won in the mid-2010s, it solved a real problem. Early skeuomorphism was heavy, inconsistent, and patronizing. But flat design's victory was too complete. Designers stripped away every affordance, every texture, every signal that told users "this is something you can grab, press, or turn."
 
@@ -24,7 +24,7 @@ Analog-inspired design fixes this because it works with how our brains are wired
 
 The design industry is arriving at the same conclusion from a different direction. Creative Bloq's coverage of 2026 design trends identifies a ["tactile rebellion"](https://www.creativebloq.com/design/graphic-design/texture-warmth-and-tactile-rebellion-the-big-graphic-design-trends-for-2026#:~:text=tactile%20rebellion): designers leaving flawless perfection behind in favour of ["roughness, and artisanal skill"](https://www.creativebloq.com/design/graphic-design/texture-warmth-and-tactile-rebellion-the-big-graphic-design-trends-for-2026#:~:text=roughness%2C%20and%20artisanal%20skill) that [feels most human](https://www.creativebloq.com/design/graphic-design/texture-warmth-and-tactile-rebellion-the-big-graphic-design-trends-for-2026#:~:text=feels%20most%20human). The common thread is work that reads as *made*, not generated.
 
-## The AI counterweight
+## The AI Counterweight
 
 I think something is pushing this trend harder than nostalgia — AI.
 
@@ -34,7 +34,7 @@ This isn't anti-AI. I use AI tools regularly. But when the baseline is "good eno
 
 I work at *Edify* Magazine and Odvod Media (yes, actual magazines, the paper kind), so I've watched this from the analog side. People never stopped wanting that tactile, intentional feeling. The marketing industry optimized for clicks because clicks are easy to count. Nobody measured whether anyone *remembered* the experience. Our gut instinct about genuine media has held up, and it's why Odvod stays dedicated to the art, the writing, and the human experience. Daley Wilhelm, writing for UX Collective, calls the analog movement ["a cure for brainrot"](https://uxdesign.cc/going-analog-in-2026-64a007180d4c#:~:text=a%20cure%20for%20brainrot), one that spans ["analog technologies like CD and MP3 players, analog experiences like reading a physical magazine, so-called analog mindsets focused on slowness and intentionality."](https://uxdesign.cc/going-analog-in-2026-64a007180d4c#:~:text=analog%20technologies%20like%20CD%20and%20MP3%20players%2C%20analog%20experiences%20like%20reading%20a%20physical%20magazine%2C%20so-called%20analog%20mindsets%20focused%20on%20slowness%20and%20intentionality) The appetite for analog is a rejection of the disposable, template-driven digital experience that AI now mass-produces at scale.
 
-## Why I care
+## Why I Care
 
 I build digital products, and I've watched the same pattern repeat: a client or a team starts with a distinctive vision, and somewhere in the design process it gets sanded down into the same safe, interchangeable shell everything else lives in. The reasoning is always the same: "our competitors do it this way," "we need to look modern," "just make it clean."
 
@@ -42,7 +42,7 @@ But convention isn't clarity. Convention is camouflage.
 
 Analog-inspired design gives you a way out of that trap. Not by being weird for weird's sake, but by reintroducing the visual and tactile cues that make a product *recognizable*. A brand-new company can feel established, and a commodity product can feel like something worth lingering over instead of scrolling past.
 
-## Some people will hate it
+## Some People Will Hate It
 
 Commit to a style and you split the room. Some customers will love what you do with texture and grain, and some will wrinkle their noses and call it dated. It's tempting to read that as a problem and sand the design back toward neutral. It isn't a problem — it's the whole mechanism. The only design nobody complains about is the design nobody remembers.
 
