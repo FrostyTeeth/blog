@@ -1,4 +1,4 @@
-# The slight touch
+# The Slight Touch
 
 *2026-09-11 — craft, marketing, experience, career*
 
