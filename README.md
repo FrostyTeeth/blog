@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-5-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-6-blue)](#posts)
 
 ## What's in here
 
@@ -15,6 +15,9 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 **Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`, `AI-assisted engineering`, `UX`, `marketing analytics`, `product development`, `product-market fit`
 
 ## Posts
+
+### [The expanding circle now includes the thing we built](posts/2026-09-19-the-expanding-circle-now-includes-the-thing-we-built.md)
+*2026-09-19 — AI, ethics, veganism, alignment, opinion*
 
 ### [The slight touch](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
 *2026-09-11 — craft, marketing, experience, career*
