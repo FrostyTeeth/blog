@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-5-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-6-blue)](#posts)
 
 ## What's in here
 
@@ -15,6 +15,9 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 **Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`, `AI-assisted engineering`, `UX`, `marketing analytics`, `product development`, `product-market fit`
 
 ## Posts
+
+### [Output Is Table Stakes](posts/2026-09-29-output-is-table-stakes.md)
+*2026-09-29 — AI, marketing-automation, content-strategy, opinion*
 
 ### [The Slight Touch](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
 *2026-09-11 — craft, marketing, experience, career*
