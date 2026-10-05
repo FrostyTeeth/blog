@@ -10,7 +10,7 @@ The definitions agree on the problem: most brand strategies are too static, and 
 
 ## What Metrics Will Be the New Ones to Watch?
 
-Brand has usually been measured after the fact, with surveys on awareness, recall, and sentiment. Once it's built into the tools, there are new things to count: whether the brand was adapted well for each channel, how many touchpoints the system covers, and how many teams outside marketing actually use it. I'm curious about which of those will tie back to revenue or retention, and which will only tell you the system is running?
+Brand has usually been measured after the fact, with surveys on awareness, recall, and sentiment. Once it's built into the tools, there are new things to count: whether the brand was adapted well for each channel, how many touchpoints the system covers, and how many teams outside marketing actually use it. I'm curious about which of those will tie back to revenue or retention, and which will only tell you the system is running.
 
 ## How Will Other Departments Understand Their Role in the System?
 
