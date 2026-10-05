@@ -19,7 +19,7 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 ### [What Is Brand Engineering?](posts/2026-10-04-what-is-brand-engineering.md)
 *2026-10-04 — branding, AI, marketing, design-systems*
 
-Eugene Healey says a brand engineer makes a brand work like an operating system instead of just a comms layer.
+Eugene Healey calls the brand engineer the newest role in marketing. Nobody agrees on a definition yet, so here are the two questions I care about more.
 
 ### [The Slight Touch](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
 *2026-09-11 — craft, marketing, experience, career*
