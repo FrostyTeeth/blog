@@ -6,7 +6,7 @@ I wrote custom commands, instructions, and agentic rules to prevent problems com
 
 Testing, removing them, and taking the chance that something breaks is not worth it, even though those instructions and hooks cost me tokens and time. So for now, they will stay in my Claude Code agentic workflow.
 
-One of those tools was a brilliant (I think) idea I had a couple months ago: an agent that watches what the primary agent is doing and makes note of loose ends. I found agents were often really good at writing modules, but would frequently forget to wire them together, for example. Or they would write something important in the transcript that would get buried in scroll off page in VScode before I read them. I needed an agent to recognize those gaps and make suggestions. I called it "Sentinel".
+One of those tools was a brilliant (I think) idea I had a couple months ago: an agent that watches what the primary agent is doing and makes note of loose ends. I found agents were often really good at writing modules, but would frequently forget to wire them together, for example. Or they would write something important in the transcript that would get buried in scroll off-screen in VS Code before I read them. I needed an agent to recognize those gaps and make suggestions. I called it "Sentinel".
 
 With all the amazing possibilities of agentic coding, though, I have too many projects going on. I kind of forgot about it and assumed it was wired in, when in reality it actually wasn't. (Isn't that ironic: the tool meant to catch forgotten loose ends was itself a forgotten loose end.)
 
