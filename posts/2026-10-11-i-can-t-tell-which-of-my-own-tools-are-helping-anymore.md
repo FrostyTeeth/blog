@@ -18,6 +18,19 @@ Now there is an official version of the thing that I made. Normally, I would use
 
 So I'm going to use my custom version, and I won't know if it's better or worse than the official version.
 
+## Even Anthropic Can't Keep Up With Claude
+
+The teams building these tools are running into this too, not just people hacking together custom scripts on the side.
+
+[![Reddit discussion on /plan in Claude Code](reddit-claude-code-plan-mode-scaffolding.png)](https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/)
+
+I saw [a Reddit thread this week](https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/) where someone called `/plan` "Claude's superpower." They start every session with it to scope out worktrees and capture acceptance criteria. But down in the comments, someone pointed out that Boris Cherny, who leads Claude Code at Anthropic, said `/plan` was mostly prompt scaffolding to keep earlier models from running wild before the human was ready.
+
+With newer models, developers are already turning it off. It used to keep the agent from going rogue, now it's just too much text. With auto-mode and smarter models, people in the thread expect Anthropic to cut the feature entirely.
+
+That's wild to watch. An essential workflow can become redundant in just a few months when the model outgrows it. When things move this fast, even the company building the platform ends up writing tools that expire before people finish figuring them out.
+
 ## Sources
 
 - [cc-plugin-you-should-know: what this Claude Code mod does, by Kristina Meister (Fixter)](https://fixter.dev/blog/cc-plugin-you-should-know)
+- [What are Claude Code power users doing with... on r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/)
