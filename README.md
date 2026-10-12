@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-6-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-7-blue)](#posts)
 
 ## What's in here
 
@@ -18,6 +18,11 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 
 ### [I Can't Tell Which of My Own Tools Are Helping Anymore](posts/2026-10-11-i-can-t-tell-which-of-my-own-tools-are-helping-anymore.md)
 *2026-10-11 — AI, engineering, agents, claude-code, opinion*
+
+### [What Is Brand Engineering?](posts/2026-10-04-what-is-brand-engineering.md)
+*2026-10-04 — branding, AI, marketing, design-systems*
+
+Eugene Healey calls the brand engineer the newest role in marketing. Nobody agrees on a definition yet, so here are the two questions I care about more.
 
 ### [The Slight Touch](posts/2026-09-11-the-gesture-on-the-way-out-the-door.md)
 *2026-09-11 — craft, marketing, experience, career*
