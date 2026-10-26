@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-8-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-9-blue)](#posts)
 
 ## What's in here
 
@@ -15,6 +15,9 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 **Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`, `AI-assisted engineering`, `UX`, `marketing analytics`, `product development`, `product-market fit`
 
 ## Posts
+
+### [The Customer With Cash in Hand](posts/2026-10-25-the-customer-with-cash-in-hand.md)
+*2026-10-25 — marketing, retail, customer-value, opinion*
 
 ### [What Made the Cut When I Wrote Up 185 Agents](posts/2026-10-17-what-made-the-cut-when-i-wrote-up-185-agents.md)
 *2026-10-17 — AI, engineering, agents, claude-code, case-study, writing*
