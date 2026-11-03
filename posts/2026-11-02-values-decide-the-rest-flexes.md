@@ -2,42 +2,126 @@
 
 *2026-11-02 — brand-engineering, branding, AI, small-business, values*
 
-A brand guide is usually a document people are supposed to follow and mostly don't. In this series on [brand engineering](/blog/what-is-brand-engineering), I'm working on the systems side of the problem, where the brand stops being a PDF in a shared drive and becomes a versioned source that tools and AI agents read directly, with a check behind it to catch anything that breaks the rules.
+A brand guide is usually a document people are supposed to follow, but rarely do. In this series on [brand engineering](/blog/what-is-brand-engineering), I'm exploring how to solve that problem at a systems level: turning a brand from a PDF in a shared drive into a versioned source that tools and AI agents can read, with automated checks to catch anything that breaks the rules.
 
-If you're going to build a brand into the tools, you have to start with the part of the brand that doesn't change from channel to channel. That layer is the values. Everything else (length, format, tone range, vocabulary, visual style) is surface that should flex with the channel and the moment.
+To build a brand into the tools people use, you first need to identify what stays constant across every channel. That's the brand's values. Everything else (length, format, tone, vocabulary and visual style) should adapt to the channel and the situation.
 
 ## Two Brands Built on the Same Three Values
 
-I have a real reason to care about where the unchanging layer ends and the flexible surface begins. I launched an Edmonton-based AI integration business under two brands, [Sharpline](https://sharpline.digital) and [Boreal AI](https://boreal-ai.co). Both brands build custom tools for small and mid-size companies in regulated, document-heavy industries like customs brokerage, non-destructive testing (NDT), third-party benefits administration, and architecture. The tools run inside the customer's existing systems, on their own data, with their own employees.
+I have a practical reason for thinking about where the foundation ends and the flexible elements begin. I launched an Edmonton-based AI integration business under two brands: [Sharpline](https://sharpline.digital/) and [Boreal AI](https://boreal-ai.co/).
 
-Because the two brands are a live test of branding and marketing on a shared product, the surface has to diverge while the foundation stays fixed. Sharpline is service-led and precision-first (*"Precise tools for precise work"*), leading with error rates, overtime cost, and cool technical visuals. Boreal AI is platform-led and local (*"Rooted here. Built for you"*), leading with the human cost of manual paperwork and warm local photography. If the values shifted between the two brands, I wouldn't know whether a prospect responded to the framing or to a different underlying promise. To keep the test clean, both brands share the exact same three values from their brand core document.
+Both build custom tools for small and mid-sized companies in regulated, document-heavy industries, including customs brokerage, non-destructive testing (NDT), third-party benefits administration and architecture. The tools run within customers' existing systems, using their own data and working alongside their employees.
 
-The first is **Reliability**, defined as *"The tools we build work every time. In regulated industries, a tool you can't count on is worse than no tool."* A value only does work when it rules out something a reasonable person might otherwise do. Reliability rules out shipping a probabilistic wrapper that gets a document right most of the time and leaves the user to hunt for silent errors. In customs brokerage or pipeline inspection, a tool that forces someone to redo the task from scratch just to check the output is worse than doing the paperwork by hand.
+The two brands give me a way to test different marketing approaches around the same underlying product. Sharpline is service-led and precision-first (*"Precise tools for precise work"*), emphasizing error rates, overtime costs and technical visuals. Boreal AI is platform-led and local (*"Rooted here. Built for you"*), focusing on the human cost of manual paperwork and using warmer, local photography.
 
-The second is **Understanding**, defined as *"We understand the business before we build, and the customer understands what we built."* Its working principle is *Clarity over complexity*. That rules out building from a spec sheet without sitting in the customer's office first, and it rules out shipping a clever black box that nobody on site can explain to a colleague or troubleshoot when an edge case turns up.
+The messaging needs to differ, but the underlying promise shouldn't. Otherwise, I wouldn't know whether a prospect responded to the positioning or to a fundamentally different proposition. So both brands share the same three values, defined in their brand core document.
 
-The third is **Responsibility**, defined as *"We are responsible for what we build. The customer's people, empowered, are responsible for the success of their company."* Its working principle is *Your people, empowered*. That rules out the two habits that poison most software adoption in these industries, which are vendors disappearing behind a support queue when a messy real-world PDF breaks their parser, and automation pitched as a way to cut headcount.
+The first is **Reliability**:
+
+*"The tools we build work every time. In regulated industries, a tool you can't count on is worse than no tool."*
+
+A value matters when it rules out something that might otherwise seem reasonable. Reliability means we don't ship a probabilistic wrapper that gets a document right most of the time and leaves the user to find the occasional silent error. In customs brokerage or pipeline inspection, a tool that requires someone to redo the work just to verify its output defeats the purpose.
+
+The second is **Understanding**:
+
+*"We understand the business before we build, and the customer understands what we built."*
+
+Its working principle is *Clarity over complexity*. That means spending time in the customer's workplace rather than building from a spec sheet alone. It also means avoiding clever black boxes that employees can't explain to a colleague or troubleshoot when an unusual situation arises.
+
+The third is **Responsibility**:
+
+*"We are responsible for what we build. The customer's people, empowered, are responsible for the success of their company."*
+
+Its working principle is *Your people, empowered*. This rules out two common mistakes in software adoption: vendors disappearing behind a support queue when a messy real-world PDF breaks their parser, and selling automation as a way to eliminate jobs.
 
 ## One Touchpoint, One Decision
 
-Neither brand has had customer interactions yet, so here is a hypothetical scenario both are preparing for (and I'll keep you updated as real-world testing starts). In non-destructive testing, field crews often worry a new tool means job cuts, and the QA manager carries personal liability for every report he signs. If a pipeline inspection operations manager asks whether a reporting tool would replace that QA review step, here is how I would reply:
+Neither brand has interacted with customers yet, so consider a scenario we're preparing for. I'll share how it develops as real-world testing begins.
 
-> No. All of the work still keeps a human in the loop. The tool would handle the clerical work of copying readings into the template, matching photos to weld joints, and pulling acceptance criteria from the code. Anything that takes real judgement would stay with your QA manager, like a reading that sits inside tolerance but still looks off, or a weld where the client's spec overrides the standard table. The tool would flag exceptions for him to review, and nothing would go to a client without his sign-off. He would still be proofreading every page, just with the clerical assembly already done and the edge cases already flagged.
+In non-destructive testing, field crews may worry that new software means job cuts. Meanwhile, the QA manager carries personal responsibility for every report he signs.
 
-All three values are doing work in that reply. **Responsibility** (*Your people, empowered*) decides the flat *"No"* and draws the boundary of accountability, where the tool handles the clerical assembly while the QA manager keeps the judgement calls, the page-by-page proofread, and the final sign-off. **Reliability** is why a human stays in the loop at every step rather than letting software auto-approve a regulated report, and **Understanding** is why the reply walks through the exact workflow in plain language instead of hiding behind automation buzzwords.
+Suppose a pipeline inspection operations manager asks whether a new reporting tool would eliminate the QA review. Here's how I'd respond:
 
-Everything else was left free to flex. The communication reinforced reliability and understanding. The moment decided the tone.
+> No. A person stays involved throughout the process.
+>
+> The tool handles the clerical work: transferring readings into the report template, matching photos to weld joints and retrieving acceptance criteria from the relevant code.
+>
+> Anything requiring judgement stays with your QA manager. That includes readings that fall within tolerance but look unusual, or welds where the client's specifications override the standard tables.
+>
+> The tool flags these exceptions for review. Nothing goes to a client without the QA manager's sign-off. He still checks every page, but the clerical assembly is already done and potential issues have been flagged.
 
-Those same values would shape a blog post or a short video differently, and decide the same thing.
+All three values shape that response. **Responsibility** (*Your people, empowered*) establishes the answer, a flat no, and makes clear that the QA manager retains control over decisions and final approval. **Reliability** keeps a person involved rather than allowing software to approve regulated reports automatically. **Understanding** ensures the explanation addresses the actual workflow instead of hiding behind automation jargon.
+
+The values determine what we say. The situation determines how we say it.
 
 ## Why Tone Words Alone Can't Make That Call
 
-Compare that with a brand defined by tone words in their strongest form, using well-written paired adjectives with clear bounds like *"direct, never blunt"* and *"confident, never arrogant."*
+Consider a brand built around carefully chosen tone guidelines, with clear boundaries such as *"direct, never blunt"* and *"confident, never arrogant."*
 
-Put the same question from the pipeline inspection firm in front of that brand. *"Direct"* says to answer plainly. It doesn't say whether the plain answer is *no*. Without a value underneath, the writer has to decide from their own view of the product, and two writers at the same company will answer differently. One writer will say the QA manager stays in the loop; the other will pitch auto-approval as an efficiency win. Both replies will be direct without being blunt and confident without being arrogant, and the brand will have contradicted itself on a core question.
+Put the same question from the pipeline inspection firm to that brand. *Direct* tells the writer to answer plainly, but it doesn't tell them whether the answer should be yes or no.
 
-That failure comes from the method, not from weak copywriting. Sharpline and Boreal AI use five tone words of their own (*Direct, Knowledgeable, Grounded, Honest, Outcome-first*), and those words do real work once a decision is made. Tone words work when they sit under a value. They can't replace one.
+Without an underlying value to guide the decision, the writer must rely on their own interpretation of the product. One might explain that the QA manager stays involved; another might promote automatic approval as an efficiency gain.
+
+Both could be direct without being blunt and confident without being arrogant, and still contradict each other on something fundamental. Better writing won't fix that.
+
+Sharpline and Boreal AI have five tone words of their own: *Direct, Knowledgeable, Grounded, Honest* and *Outcome-first*. These are useful guidelines, but they come into play after the important decisions have been made. Tone words help express a brand's values. They can't replace them.
+
+## The Same Question in Every Channel
+
+The pipeline inspection question won't only arrive by email.Each channel comes with different circumstances: who's asking, how much attention they have and what happens to the information afterward. Those differences need to be reflected in the brand guidelines.
+
+### Email
+
+- The operations manager has asked a direct question and can reread the response at their desk.
+- There's time to draft, review and revise before sending.
+- The email becomes a written record and may be forwarded to others involved in approving the purchase.
+
+That's why the earlier response walks through the workflow in detail. It needs to make sense to someone who wasn't part of the original conversation.
+
+### LinkedIn
+
+- Nobody has asked the question directly. The reader is scrolling.
+- The feed may cut off the post after a couple of lines.
+- It's public. The owner, QA manager and technicians may all read the same message.
+
+The concern needs to be addressed immediately, in language that makes sense to everyone involved:
+
+> Will an AI reporting tool replace your QA review? No. It handles the typing after a long day in the field. Your QA manager still checks and signs every report.
+
+### Website FAQ
+
+- The reader is comparing vendors but hasn't necessarily told anyone they're looking.
+- They scan for their question, read the answer and move on, often to share it with a colleague or manager.
+
+The answer needs to stand on its own:
+
+> **Does the tool replace our QA review?**
+>
+> No. It assembles the report and flags anything unusual for review. Your QA manager checks and signs every report before it goes to a client.
+
+### Phone
+
+- The conversation happens in real time. There's no opportunity for a second draft or time to look things up mid-sentence.
+- The caller can't scroll back, so the answer needs to come first.
+- There's no written record, but the caller will remember what was promised.
+- The first question isn't always the real concern. That often comes out in a follow-up.
+
+One person, one phone number is part of the brand, so I'll be the one answering. That doesn't mean making things up as I go.
+
+A guide generated from the same brand source as everything else can keep the conversation on track. It puts the key points in speaking order, anticipates likely follow-up questions and identifies promises I shouldn't make. I can still speak naturally:
+
+> **Caller asks:** Will this replace our QA review?
+>
+> - Answer first: No.
+> - The tool handles the typing: transferring readings and matching photos to welds.
+> - The QA manager still checks and signs every report.
+> - Likely follow-up: *"So will you need fewer people?"* No. The same people spend more time on inspection and review instead of data entry.
+> - Don't promise reductions in headcount.
+
+Each of those channel differences can be written down as a rule a tool follows. But none determines the actual answer. Every version says no, keeps the QA manager responsible for the judgement calls and explains the tool in plain language.
 
 ## What Comes Next in This Series
 
-Writing values that actually rule things out is the strategy input. Over the rest of this series, I'm going to continue to engineer brands. After starting with values that make hard decisions, I will work on building the tools that keep the brand honest across every touchpoint.
+Values that rule things out are the starting point for brand engineering.
+
+In the next articles, I'll continue working through how to turn those values into practical systems and build the tools that keep a brand consistent across every customer touchpoint.
