@@ -68,7 +68,7 @@ Sharpline and Boreal AI have five tone words of their own: *Direct, Knowledgeabl
 
 ## The Same Question in Every Channel
 
-The pipeline inspection question won't only arrive by email.Each channel comes with different circumstances: who's asking, how much attention they have and what happens to the information afterward. Those differences need to be reflected in the brand guidelines.
+The pipeline inspection question won't only arrive by email. Each channel comes with different circumstances: who's asking, how much attention they have and what happens to the information afterward. Those differences need to be reflected in the brand source.
 
 ### Email
 
