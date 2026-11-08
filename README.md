@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-9-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-8-blue)](#posts)
 
 ## What's in here
 
@@ -15,11 +15,6 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 **Topics:** `entrepreneurship`, `strategy`, `system design`, `agentic development`, `automated marketing`, `AI-assisted engineering`, `UX`, `marketing analytics`, `product development`, `product-market fit`
 
 ## Posts
-
-### [Values Decide, the Rest Flexes](posts/2026-11-02-values-decide-the-rest-flexes.md)
-*2026-11-02 — brand-engineering, branding, AI, small-business, values*
-
-A brand guide is usually a document people are supposed to follow and mostly don't. This series is about the systems side of brand engineering: building a brand's decisions directly into the tools and AI agents that produce the work.
 
 ### [What Made the Cut When I Wrote Up 185 Agents](posts/2026-10-17-what-made-the-cut-when-i-wrote-up-185-agents.md)
 *2026-10-17 — AI, engineering, agents, claude-code, case-study, writing*
