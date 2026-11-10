@@ -16,7 +16,7 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 
 ## Posts
 
-### [Who Hears It First](posts/2026-11-08-the-email-had-one-job.md)
+### [Who Hears It First](posts/2026-11-08-who-hears-it-first.md)
 *2026-11-08 — communications, strategy, career, opinion*
 
 I took three asks to an executive in a one-on-one and left with two approvals. Most of what made that work happened before the meeting, in who I let into the room.
