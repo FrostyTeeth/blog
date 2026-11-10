@@ -1,4 +1,4 @@
-# The Email Had One Job
+# Who Hears It First
 
 *2026-11-08 — communications, strategy, career, opinion*
 
@@ -16,28 +16,24 @@ I wrote back:
 
 We met one-on-one. I brought three asks and left with two approvals and one open door. I've sent plenty of longer and more careful emails that got less.
 
-## The Job Was the Room
+## Keeping the Meeting Small
 
-The email wasn't supposed to explain anything or make any kind of case. It was just supposed to get a meeting.
+Suggesting more people was a reasonable thing for the executive to do, and a few years ago I'd have said sure, the more the better. A bigger room feels thorough. What changed my mind is something I've watched happen more than once: you put a half-formed recommendation in front of a group, and the group does its job, which is to find the problems. They're usually real problems. But the idea is dead before anyone has decided whether it was worth solving them.
 
-I'd been thinking about this for a while, actually. Every idea has a stage where there's one person who can say yes and a lot of people who can only say "but." Both are useful, just not at the same time. I've watched it happen: you put a half-formed recommendation in front of a group and the group does what groups are for. It finds the problems. The problems are real, and the idea dies before anyone has decided whether it's worth solving them.
+So before I sent the first email I'd already worked out what I'd say if someone suggested adding people. I wanted the idea in front of the one person who could see what it might be worth, and I wanted the people who poke holes to come in afterward, once there was something standing to poke at. Both kinds of people are useful, just not in the same meeting. The reply I sent said so, and I tried to say it as a courtesy and not a brush-off: these are yours to decide, you'll know right away, and the wider conversation happens once you say go.
 
-So I wanted the person who can see the upside first. 
+I also left the ideas themselves out of the email. In two lines each they'd have come out vague, and a vague idea is easy to form the wrong opinion about before you've heard it explained. They needed a conversation where I could answer questions as they came up. (Okay, and a little theatre. I wanted to say them out loud.)
 
-When the reply suggested adding people, a few years ago I would have agreed. More people sounds more thorough, right? But I'd actually planned for that reply before I sent the first email. I wrote back what the meeting was for: these are decisions only you can make, and the wider conversation comes after.
-
-I also kept the ideas out of the email on purpose. Written down in two lines each, they'd have been vague, and vague ideas are easy to form incorrect opinions about. They needed a real conversation, with the chance to react to questions as they came. And yeah, a small amount of theatre was involved. Announcing them in person was part of the point.
-
-That can backfire, obviously. A mystery agenda can read as evasive, and some executives will tell you exactly where to put your surprise. What made it work here was that the email was specific about the shape of the meeting even while it said nothing about the content: short, two recommendations, one update, some industry news. The reader knew what they were agreeing to. They just didn't know the answers yet.
+That can backfire. A mystery agenda can read as evasive, and some executives will tell you exactly where to put your surprise. I think what kept it from reading that way was that the email was specific about the meeting even though it said nothing about what the recommendations were: short, two recommendations, an update, some industry news. They knew what they were agreeing to. They just didn't know what I'd recommend.
 
 ## Three Asks, Three Sizes
 
 The other thing I got right, and this one I only half did on purpose, was that I didn't ask for the same thing three times.
 
-The first was external signage on the building. I didn't ask for a sign. I asked for permission to look into it, which is a much easier yes. I got it.
+The first was external signage on the building. I didn't ask for a sign. I asked if I could look into getting one, which is a much easier yes, and I got it.
 
-The second was a tagline. The company has a strong identity in practice and no short, direct way of saying it, and I wanted that on the table as a brand question. I wasn't asking for a decision, just asking that it be considered. A tagline isn't something anyone should decide in a single meeting anyway. It's still on the table, which is what I wanted.
+The tagline took the most care. The company has a strong identity in practice and no short, direct way of saying it, and I wanted that raised as a brand question. I wasn't asking for a decision, only that it be considered, partly because a tagline isn't something anyone should settle in one meeting. It's still on the table, which is where I wanted it.
 
-The third was a set of features for the software system I'm building for the business. That one I asked for a green light on, because it's my system and I knew what the features would cost and what they'd do. Green light.
+The features were for the software system I'm building for the business, and there I did ask for a green light. It's my system, I knew what the features would cost and what they'd do, and there was no reason to be coy about it. Green light.
 
-Looking back, each ask was basically the smallest yes that could move it forward. If I'd asked for "approval of my three recommendations" as one bundle, the tagline would have dragged the other two into the maybe pile with it.
+Looking back, each ask was about the smallest yes that would still move something forward. If I'd bundled them as "approval of my three recommendations," I suspect the tagline would have dragged the other two into the maybe pile with it. Asking the right person, for the right amount, in a form they can say yes to is most of what I'd call tact.
