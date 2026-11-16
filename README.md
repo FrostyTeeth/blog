@@ -1,6 +1,6 @@
 # Argue With the Agents
 
-[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-9-blue)](#posts)
+[![Site](https://img.shields.io/badge/site-steve--glen.com-black)](https://steve-glen.com)  [![Posts](https://img.shields.io/badge/posts-10-blue)](#posts)
 
 ## What's in here
 
@@ -16,10 +16,15 @@ Full posts, images, and the rest of my work live at [steve-glen.com](https://ste
 
 ## Posts
 
-### [Who Hears It First](posts/2026-11-08-who-hears-it-first.md)
+### [The Generalist's Turn](posts/2026-11-15-the-generalists-turn.md)
+*2026-11-15 — AI, career, generalist, opinion*
+
+When models can do the work inside a specialty, the scarce skill is seeing how the pieces fit together, and setting the rules and goals they work inside.
+
+### [The Email Had One Job](posts/2026-11-08-the-email-had-one-job.md)
 *2026-11-08 — communications, strategy, career, opinion*
 
-I took three asks to an executive in a one-on-one and left with two approvals. Most of what made that work happened before the meeting, in who I let into the room.
+I got three ideas in front of an executive and two of them approved. The part that worked was the email, and the email didn't contain any of the ideas.
 
 ### [What Made the Cut When I Wrote Up 185 Agents](posts/2026-10-17-what-made-the-cut-when-i-wrote-up-185-agents.md)
 *2026-10-17 — AI, engineering, agents, claude-code, case-study, writing*
