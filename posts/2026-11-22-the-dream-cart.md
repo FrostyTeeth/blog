@@ -4,8 +4,6 @@
 
 I love this advertisement for Vegain, a Canadian plant-based supplement store, and I have to tell you about it. Here's the pitch: for Black Friday they're giving away your dream (shopping) cart. Go to Vegain.ca, put the products you want in the cart, go to the checkout, and create a profile. On Friday they'll pick carts and give them away.
 
-![I love this advertisement](images/i-love-this-advertisement.png)
-
 I like it because it gets the customer imagining what it's like to get these products, and it removes the shell of budget/pricing from the customer's mental state. But did you pick up on what they didn't say? I'll come back to that later.
 
 Every step of entering is a step of buying: open the store, browse, pick a flavour, add it to the cart, add something else, go to the checkout. The only part you skip is the credit card. By the time you've built a dream cart you've spent a few minutes rehearsing what it's like to own all of it, and you did that to yourself, voluntarily, because you wanted to win.
@@ -40,6 +38,8 @@ There are several marketing tracking tools on Vegain.ca (listed below) and one i
 ## I Want
 
 **Which brings me to it. I'm going to go add a bunch of stuff to my cart right now. Why not? It can't hurt. If I don't win, I'll probably remove a few things after Black Friday and buy one or two items that I'd value anyway.**
+
+![I love this advertisement](images/i-love-this-advertisement.png)
 
 ## What Marketing Tracking Tools Are Installed on Vegain.ca?
 
