@@ -69,4 +69,4 @@ There are several marketing tracking tools on Vegain.ca (listed below) and one i
 >
 > Winners get picked this Friday, so start building your carts now.
 
-Source: [Vegain's Instagram ad](https://www.instagram.com/p/Df8eTlcMoVf/)
+Source: [Vegain's Instagram ad](https://www.instagram.com/p/Df8eTlcMoVf/) and [the same ad on Facebook](https://www.facebook.com/share/r/1JXk5CRfNy/)
